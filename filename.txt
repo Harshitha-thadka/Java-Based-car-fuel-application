@@ -1,0 +1,1 @@
+3. car name: prius, fuel capacity: 15, optimal speed: 85, mileage: 12, top speed: 180
